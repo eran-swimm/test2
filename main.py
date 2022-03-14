@@ -1,6 +1,6 @@
 def foo(a):
 	if a > 10:
-		print('a is bigger')	
+		print('a is Bigger')	
 	else:
 		proint('a is smaller')
 
