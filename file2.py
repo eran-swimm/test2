@@ -1,6 +1,7 @@
 def file2():
 	print('This is file2')
-	print('This is another line')
+        if 4 > 3:
+		print('Replaced the previous line')	
 	print('This is another nother line')
 
 
