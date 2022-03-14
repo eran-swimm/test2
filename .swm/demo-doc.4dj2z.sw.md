@@ -4,7 +4,7 @@ name: demo doc
 file_version: 1.0.2
 app_version: 0.7.6-0
 file_blobs:
-  main.py: 4b5d7802b03158744e13e328583664bbc896e0f5
+  main.py: 5889c1110ffb48e6139af62d0483e3595143d953
 ---
 
 first
@@ -13,7 +13,7 @@ first
 ```python
 🟩 1      def foo(a):
 🟩 2      	if a > 10:
-🟩 3      		print('a is bigger')	
+🟩 3      		print('a is Bigger')	
 🟩 4      	else:
 🟩 5      		proint('a is smaller')
 ⬜ 6      
