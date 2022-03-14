@@ -4,15 +4,15 @@ name: demo doc
 file_version: 1.0.2
 app_version: 0.7.6-0
 file_blobs:
-  main.py: 0bd9cb112543908a47809d3c7cc0290c9bb336e9
+  main.py: 0cf0f76ede34fe9bc1e04ef1526f84f692c791fe
 ---
 
 first
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 main.py
 ```python
-🟩 1      def main():
-🟩 2      	print("hello")
+🟩 1      def foo():
+🟩 2      	pass
 ⬜ 3      
 ⬜ 4      
 ⬜ 5      
