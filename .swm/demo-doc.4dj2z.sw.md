@@ -4,18 +4,21 @@ name: demo doc
 file_version: 1.0.2
 app_version: 0.7.6-0
 file_blobs:
-  main.py: c340332193bcb7c2f6510eca171cf3ff60a92ebf
+  main.py: 4b5d7802b03158744e13e328583664bbc896e0f5
 ---
 
 first
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 main.py
 ```python
-🟩 1      def bar():
-🟩 2      	print("This is bar")
-⬜ 3      
-⬜ 4      
-⬜ 5      
+🟩 1      def foo(a):
+🟩 2      	if a > 10:
+🟩 3      		print('a is bigger')	
+🟩 4      	else:
+🟩 5      		proint('a is smaller')
+⬜ 6      
+⬜ 7      
+⬜ 8      
 ```
 
 <br/>
