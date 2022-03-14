@@ -1,5 +1,5 @@
-def foo():
-	pass
+def bar():
+	print("This is bar")
 
 
 
