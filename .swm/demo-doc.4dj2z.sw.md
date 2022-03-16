@@ -2,7 +2,7 @@
 id: 4dj2z
 name: demo doc
 file_version: 1.0.2
-app_version: 0.7.6-0
+app_version: 0.7.6-1
 file_blobs:
   main.py: 5889c1110ffb48e6139af62d0483e3595143d953
 ---
@@ -20,6 +20,10 @@ first
 ⬜ 7      
 ⬜ 8      
 ```
+
+<br/>
+
+Send email to ekeydar@gmail.com
 
 <br/>
 
