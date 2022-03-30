@@ -2,9 +2,9 @@
 id: vw0i8
 name: the second document
 file_version: 1.0.2
-app_version: 0.7.6-0
+app_version: 0.7.8-1
 file_blobs:
-  file2.py: 209f92aff8a5ab967529fbb51237fcba231e546e
+  file2.py: cb100e216eb2d45db9655cd5cc7f9c0f3e8d9863
 ---
 
 this is the document for the another line in file2.py
@@ -22,7 +22,7 @@ another line `print`[<sup id="Z113yLC">↓</sup>](#f-Z113yLC) and another text `
 ⬜ 1      def fileo3():
 ⬜ 2      	print('This is file2')
 🟩 3      	# the line was deleted!!!!
-⬜ 4      	print('This is another nother line')
+⬜ 4      	print('this is another nother line')
 ⬜ 5      
 ⬜ 6      
 ```
@@ -34,7 +34,7 @@ another line `print`[<sup id="Z113yLC">↓</sup>](#f-Z113yLC) and another text `
 
 <span id="f-Z113yLC">print</span>[^](#Z113yLC) - "file2.py" L4
 ```python
-	print('This is another nother line')
+	print('this is another nother line')
 ```
 
 <br/>
