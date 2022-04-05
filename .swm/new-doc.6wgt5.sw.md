@@ -2,9 +2,9 @@
 id: 6wgt5
 name: new doc
 file_version: 1.0.2
-app_version: 0.7.6-0
+app_version: 0.7.10-0
 file_blobs:
-  main.py: 5889c1110ffb48e6139af62d0483e3595143d953
+  main.py: 150d11460500c3be87d492db6366ffc172485d6b
 ---
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
@@ -14,11 +14,10 @@ file_blobs:
 🟩 2      	if a > 10:
 🟩 3      		print('a is Bigger')	
 🟩 4      	else:
-🟩 5      		proint('a is smaller')
+🟩 5      		print('a is smaller')
 🟩 6      
 ⬜ 7      
 ⬜ 8      
-⬜ 9      
 ```
 
 <br/>
