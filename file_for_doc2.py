@@ -2,5 +2,5 @@ def foo1():
 	print('Foo1')
 
 
-# REMOVED THE FUNCTION
+# REMOVED THE FUNCTION BAR1
 
