@@ -3,6 +3,6 @@ def foo():
 
 
 def bar():
-	print('Bar 1')
+	Print('Bar 1')
 
 
