@@ -2,9 +2,9 @@
 id: 6wgt5
 name: new doc
 file_version: 1.0.2
-app_version: 0.7.10-0
+app_version: 0.8.7-1
 file_blobs:
-  main.py: 150d11460500c3be87d492db6366ffc172485d6b
+  main.py: e08afa7a3bc2338247603485f59cb4fcba7e759b
 ---
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
@@ -12,7 +12,7 @@ file_blobs:
 ```python
 🟩 1      def foo(a):
 🟩 2      	if a > 10:
-🟩 3      		print('a is Bigger')	
+🟩 3      		print('a is bigger!!!##!!##!!!')	
 🟩 4      	else:
 🟩 5      		print('a is smaller')
 🟩 6      

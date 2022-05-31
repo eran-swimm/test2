@@ -2,9 +2,9 @@
 id: vw0i8
 name: the second document
 file_version: 1.0.2
-app_version: 0.7.10-0
+app_version: 0.8.7-1
 file_blobs:
-  file2.py: 28162e3d54df140116172057bb28c04da85653c9
+  file2.py: 5acefc3dc8d6c0ab75ad27167fc458c6d1f43707
 ---
 
 this is the document for the another line in file2.py
@@ -21,7 +21,7 @@ code example
 ```python
 🟩 1      def fileo3():
 🟩 2      	# REMOVED THE CODE
-🟩 3      	pass
+🟩 3      	# EXTRA LINE
 ⬜ 4      
 ⬜ 5      
 ⬜ 6      
