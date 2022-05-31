@@ -2,9 +2,9 @@
 id: 111wp
 name: for file 1
 file_version: 1.0.2
-app_version: 0.7.10-0
+app_version: 0.8.7-1
 file_blobs:
-  file_for_doc1.py: 09f3767e66c023cf10d8a747f129a5a8dc5fd655
+  file_for_doc1.py: 580dcadf854789b1f216a6e6f237ec42ff51a9ac
 ---
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
@@ -14,10 +14,9 @@ file_blobs:
 ⬜ 3      
 ⬜ 4      
 🟩 5      def bar():
-🟩 6      	print('Bar')
+🟩 6      	print('Bar 1')
 ⬜ 7      
 ⬜ 8      
-⬜ 9      
 ```
 
 <br/>
