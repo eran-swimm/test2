@@ -2,11 +2,11 @@
 id: 6jwct
 name: eran playlist
 file_version: 1.0.2
-app_version: 0.9.0-1
+app_version: 0.9.0-2
 ---
 
 <!-- Intro - Do not remove this comment -->
-playlist 1
+playlist 1 aaaaa
 
 <br/>
 
@@ -14,8 +14,9 @@ playlist 1
 1. [for file 1](for-file-1.111wp.sw.md)
 2. [new doc](new-doc.6wgt5.sw.md)
 3. [new doc to see if there is notification or not](new-doc-to-see-if-there-is-notification-or-not.ui1f7.sw.md)
-4. [<script>Alert(1)</script>](scriptalert1script.8ethv.sw.md)
-5. [demo doc](demo-doc.4dj2z.sw.md)
+4. [First DOC](https://app.swimm.io/repos/Z2l0aHViJTNBJTNBZGVtbzEtbWQxJTNBJTNBZXJhbi1zd2ltbQ==/docs/us0yu)
+5. [<script>Alert(1)</script>](scriptalert1script.8ethv.sw.md)
+6. [demo doc](demo-doc.4dj2z.sw.md)
 
 
 <br/>
