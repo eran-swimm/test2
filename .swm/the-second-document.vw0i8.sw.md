@@ -2,12 +2,12 @@
 id: vw0i8
 name: the second document
 file_version: 1.0.2
-app_version: 0.8.7-1
+app_version: 0.9.1-5
 file_blobs:
-  file2.py: 5acefc3dc8d6c0ab75ad27167fc458c6d1f43707
+  file2.py: 139597f9cb07c5d48bed18984ec4747f4b4f3438
 ---
 
-this is the document for the another line in file2.py
+this is the document for the aaa anothe. bbb r line in file2.py
 
 <br/>
 
@@ -19,12 +19,9 @@ code example
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 file2.py
 ```python
-🟩 1      def fileo3():
-🟩 2      	# REMOVED THE CODE
-🟩 3      	# EXTRA LINE
-⬜ 4      
-⬜ 5      
-⬜ 6      
+🟩 1      
+🟩 2      
+🟩 3      
 ```
 
 <br/>
